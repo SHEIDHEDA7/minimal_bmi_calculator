@@ -1,0 +1,4 @@
+1. Adding the app theme in main.dart
+2. Making the Home page as stateful one 
+3. Make separate widget for Card which is a container for the gender,age,height,weight etc.
+4. Get font_awesome package
